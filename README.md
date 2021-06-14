@@ -15,7 +15,7 @@ A student-project implementing the recursive merge sort algorithm using Python. 
 ### Instructions:
 
 - Open the terminal.
-- Run the program [merge_sort.py](merge_sort.py).
+- Run the [merge_sort.py](merge_sort.py) file.
 - Input the number of elements that they want to sort and the list elements that they want to sort. Assume that all inputs are integers.
 - The program will display the contents of the list after every merge operation.
 - Lastly, display the sorted list.
