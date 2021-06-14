@@ -1,6 +1,6 @@
 # Merge Sort Algorithm - Python
 
-CSADPRG • Data Structures and Algorithms | Sophomore • 2020-2021 | Final Project
+CSADPRG • Concepts in Programming Languages | Sophomore • 2020-2021 | Final Project
 
 ### Author/s:
 
